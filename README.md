@@ -12,12 +12,12 @@ Weekly assignments of Comp. Modeling course will be located here.
    * [Week 3 Data](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_3/Data)
    * [Week 3 Scripts](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_3/Scripts)
    * [Week 3 Output](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_3/Output)
-* #
+#
  * [Week 4](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_4)
    * [Week 4 Data](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_4/Data)
    * [Week 4 Scripts](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_4/Scripts)
    * [Week 4 Output](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_4/Output)
-* #
+#
  * [Week 5](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_5)
    * [Week 5 Data](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_5/Data)
    * [Week 5 Scripts](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_5/Scripts)
