@@ -6,7 +6,6 @@ output:
   html_document: 
    toc: TRUE
    toc_float: TRUE
-  rmdformats::readthedown:
 ---
 
 ```{r setup, include=FALSE}
@@ -42,7 +41,7 @@ games <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidy
 
 Bad Plot: color clash, bad labeling (title), data unclear, axis not titled correctly. 
 
-```{r 2021_03_22_games, fig.width = 8, fig.height = 5, fig.cap = "Figure 1.", fig.align= "center"}
+```{r 2021_03_22_games, fig.width = 8, fig.height = 5, fig.cap = "Figure 1.", fig.align = "center"}
 ezclap <- games %>% #rename data for bad plot
 ggplot(aes(x = avg, y = month)) + #plot variables
   geom_boxplot(outlier.colour="green", outlier.shape=23,
@@ -58,7 +57,7 @@ ezclap
 
 # Good Plot
 
-```{r 2021_03_22_gg, fig.width = 8, fig.height = 5, fig.cap = "Figure 2. Peak of Players in Top Three Games, fig.align= "center"}
+```{r 2021_03_22_gg, fig.width = 8, fig.height = 5, fig.cap = "Figure 2. Peak of Players in Top Three Games", fig.align = "center"}
 gg <- games %>% #rename data for good plot
 ggplot(aes(x = month, # label axises 
              y = peak, 
