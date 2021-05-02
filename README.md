@@ -48,10 +48,7 @@ Weekly assignments of Comp. Modeling course will be located here.
    * [Week 10 Scripts](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_10/Scripts)
    * [Week 10 Output](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_10/Output)
 #
- * [Week 11](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_11)
-   * [Week 11 Data](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_11/Data)
-   * [Week 11 Scripts](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_11/Scripts)
-   * [Week 11 Output](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_11/Output)
+ * Week 11 - break
 #
  * [Week 12](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_12)
    * [Week 12 Data](https://github.com/Biol551-CSUN/Abdulla/tree/main/Week_12/Data)
